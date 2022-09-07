@@ -1,2 +1,2 @@
-import {ClassComponent} from './ClassComponent';
+import { ClassComponent } from './ClassComponent';
 export default ClassComponent;

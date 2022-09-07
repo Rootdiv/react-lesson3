@@ -1,2 +1,2 @@
-import {LifeCycle} from './LifeCycle';
+import { LifeCycle } from './LifeCycle';
 export default LifeCycle;
